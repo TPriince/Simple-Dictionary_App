@@ -5,4 +5,4 @@ A simple dictionary application made with Python
 - Create virtual environment
 - Activate it
 - pip install dependencies in requirements.txt
-- To run: python main.py
+- To run: `python main.py`
