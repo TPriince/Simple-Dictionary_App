@@ -28,7 +28,7 @@ try:
     count = count + 1
     print('\u0332'.join(means) + ' : ' + data['meaning'][means][0]['definition'] + '\n')
     
-    # Getting an examples 
+    # Getting example(s)
     if 'example' in  data['meaning'][means][0]:
       print('Example : ' + data['meaning'][means][0]['example'])
       print("-------------------------------------\n")
