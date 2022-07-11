@@ -22,7 +22,7 @@ try:
 
   count = 1
 
-  # Getting a meaning
+  # Getting meaning(s) of the word
   for means in data['meaning']:
     print('Definition No.{}:'.format(count))
     count = count + 1
